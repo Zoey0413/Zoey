@@ -41,7 +41,7 @@ traveling and playing games
 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px"  alt=""/> anything, I am really a talkative person, happy to help 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: cuicuimei_
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: cuicuimei_  ...
 
 <p align="center">
   <a href="https://twitter.com/naiman_alex">

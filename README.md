@@ -3,7 +3,7 @@
 <p align="center" >
   <samp>
     My name is <em>Zoey Zuo</em>. My MBTI is INFP... 
-  <br/> I'm Girl... And I have a beautiful girl. Her Name is Lao JiaYing. 
+  <br/> I'm Girl... And I have a beautiful girlfriend. Her Name is Lao JiaYing. 
     <br/> (<em>- -</em>) I Really Love Her.
       <br/>
 I like watching movies,

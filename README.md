@@ -48,4 +48,3 @@ traveling and playing games
   <a href="https://www.instagram.com/alex.naiman.4/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;"  alt=""/>
   </a>
-****

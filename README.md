@@ -2,9 +2,9 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Zoey Zuo</em>. My MBTI is INFP... 
+    My name is <em>Ying Zuo</em>. My MBTI is INFP... 
   <br/> I'm Girl... And I have a beautiful girlfriend. Her Name is Wallis. 
-    <br/> (<em>- -</em>) I Really Love Her.And I like DOGs & CATs.
+    <br/> (<em>- -</em>)  I like DOGs & CATs.
       <br/>
 I like watching movies,
           <br/>
